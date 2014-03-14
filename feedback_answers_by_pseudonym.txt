@@ -1,0 +1,12 @@
+1. What were you expecting to learn by participating in the Code Management for Non-Programmers workshop?
+To become more comfortable with main GitHub concepts (esp. fork, pull, clone).
+
+2. Did this meet your expectations?
+More or less -- the hands-on experience definitely helped, but I still find the interactions confusing!
+
+3. What went well in the Code Management for Non-Programmers workshop?
+We all managed to do a lot, esp. for a brief session!
+4. What went not so well?
+We still didn't all manage to do everything we had planned, to be sure that branches were synced as we intended, etc.5. What could be improved upon for next time?
+Would be better to have projection (not your fault!), or at least a bare-bones, pictorial tutorial of the basic GitHub concepts work.6. What was your favorite aspect of the Code Management for Non-Programmers workshop?
+Comfortable rapport with both Jacque and other students.7. Would you be interested in an advanced version of this workshop? If so, what types of applications or concepts would you like to see addressed?I think I would like even more practice of the basics, before going on to advanced topics.
